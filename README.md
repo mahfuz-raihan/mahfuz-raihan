@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mahfuz-raihan
+- 👋 Hi, I’m Mahfuz Raihan
 - 👀 I’m interested in Machine Learning/Deep learning
 - 🌱 I’m currently learning pytorch
 - 💞️ I’m open to collaborate on ML/DL suitable project
