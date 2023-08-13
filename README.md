@@ -1,7 +1,6 @@
 - 👋 Assalamualaikum, I’m Mahfuz Raihan
 - 👀 I’m interested in Machine Learning/Deep learning
-- 🌱 I’m currently learning pytorch
-- 💞️ I’m open to collaborate on ML/DL suitable project
+- 🌱 I’m currently learning NLP
 - 📫 You can contact with me here: mahfuz.raihan.ict@gmail.com
 
 <!---
