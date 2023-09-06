@@ -9,6 +9,7 @@
 - 🌱 I’m currently learning NLP
 - 📫 You can contact with me here: mahfuz.raihan.ict@gmail.com
 
+![](https://komarev.com/ghpvc/?username=mahfuz-raihan&style=plastic&color=brightgreen)
 
 
 
