@@ -6,7 +6,7 @@
 </picture>
 
 - 👀 I’m interested in Machine Learning/Deep learning
-- 🌱 I’m currently learning NLP
+- 🌱 I’m currently learning LLM
 - 📫 You can contact with me here: mahfuz.raihan.ict@gmail.com
 
 ![](https://komarev.com/ghpvc/?username=mahfuz-raihan&style=plastic&color=brightgreen)
