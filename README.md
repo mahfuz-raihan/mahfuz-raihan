@@ -11,6 +11,7 @@
 
 ![](https://komarev.com/ghpvc/?username=mahfuz-raihan&style=plastic&color=brightgreen)
 
+[![GitHub Streak](https://streak-stats.demolab.com/?user=mahfuz-raihan)](https://git.io/streak-stats)
 
 
 
