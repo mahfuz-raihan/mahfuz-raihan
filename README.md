@@ -16,6 +16,14 @@
 
 [![Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Stack&titleAlign=center&lineCount=2&theme=blood_dark&width=850&bg=%230C2734&badge=%230F3242&border=%230F3242&titleColor=%23FF5F5F&line1=Python%2CPython%2C2b458c%3Bpytorch%2Cpytorch%2CFF6363%3Bpandas%2Cpandas%2C03A791%3BMLflow%2CMLflow%2C3338A0%3BGit%2CGit%2CE4004B%3BLangChain%2CLangChain%2C3F7D58%3Bstreamlit%2Cstreamlit%2CCB0404%3B&line2=PostgreSQL%2CPostgreSQL%2C093FB4%3BDask%2CDask%2CFFFCFB%3BSpaCy%2CSpaCy%2CFFD8D8%3BGitHub%2CGitHub%2CED3500%3Bnumpy%2Cnumpy%2C9B177E%3Bplotly%2Cplotly%2CFF6F3C%3Btensorflow%2Ctensorflow%2CFFB200%3B)
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mahfuz-raihan)  
+
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfuz-raihan)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfuz-raihan&show_icons=true)  
+
 
 
 <!---
